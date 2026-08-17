@@ -16,7 +16,7 @@ Dataset ulasan pengguna berbahasa Indonesia dari tiga aplikasi layanan publik di
 - **Parameter**: `sort=Sort.NEWEST`
 - **Waktu pengambilan**: 9 Agustus 2026, 18.54 WITA
 - **Volume**: 20.000 ulasan per aplikasi → 60.000 ulasan mentah
-- **Atribut yang diambil**: ID ulasan, nama aplikasi, teks ulasan
+- **Atribut yang diambil**: ID ulasan, nama aplikasi, teks ulasan, rating, tanggal
 
 ## Proses Pembersihan Data
 
