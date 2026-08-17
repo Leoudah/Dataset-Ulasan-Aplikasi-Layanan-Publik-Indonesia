@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1337572813.svg)](https://doi.org/10.5281/zenodo.21984958)
+
 # Dataset Ulasan Aplikasi Layanan Publik Indonesia
 
 Dataset ulasan pengguna berbahasa Indonesia dari tiga aplikasi layanan publik digital di Google Play Store: **Identitas Kependudukan Digital (IKD)**, **Mobile JKN**, dan **MyPertamina**. Dataset ini dikumpulkan untuk mendukung penelitian klasifikasi ulasan aplikasi berbasis tipe (Bug Report / Feature Request / Other) dan aspek/modul.
